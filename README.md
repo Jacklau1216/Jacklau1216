@@ -2,8 +2,8 @@
 
 
 ### Github Stats
-![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacklau1216&theme=dark&show_icons=true&card_width=500&hide=issues&line_height=24)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacklau1216&theme=dark&show_icons=true&card_width=400&layout=compact)
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacklau1216&theme=dark&show_icons=true&card_width=200&hide=issues&line_height=24)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacklau1216&theme=dark&show_icons=true&card_width=200&layout=compact)
 
 ### Favorite quote
 >**Why are you reading this? Don't you have better things to do?** <br/>
