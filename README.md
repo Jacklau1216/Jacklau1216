@@ -2,7 +2,7 @@
 
 
 ### Github Stats
-![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacklau1216&theme=dark&show_icons=true&card_width=300&hide=issues&line_height=24)
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacklau1216&theme=dark&show_icons=true&card_width=400&hide=issues&line_height=24)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacklau1216&theme=dark&show_icons=true&card_width=200&layout=compact)
 
 ### Favorite quote
