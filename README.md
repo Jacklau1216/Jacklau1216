@@ -7,7 +7,8 @@ class Male:
     def __init__(self):
         self.name = "Jack Lau"
         self.school = "HKUST"
-        self.major = "Computer Engineering"
+        self.bachelor = "Computer Engineering"
+        self.master = "Artificial Intelligence"
         self.interests = ["AI", "Machine Learning", "Web Development"]
         self.languages = ["Python", "JavaScript", "C++"]
         self.status = "Always Learning"
